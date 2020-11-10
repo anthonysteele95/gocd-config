@@ -1,6 +1,6 @@
 format_version: 10
 pipelines:
-  MyTestPipeline:
+  TestPipeline:
     group: defaultGroup
     label_template: ${COUNT}
     lock_behavior: none
